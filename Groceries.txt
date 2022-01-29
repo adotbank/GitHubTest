@@ -6,3 +6,6 @@ Bananas
 Cherries
 Carrots
 Cereal
+Cookies 
+Mangos
+Brownies
